@@ -60,8 +60,8 @@ export default function HomePage() {
                 href="https://support.google.com/ads/answer/2662922?hl=en">https://support.google.com/ads/answer/2662922?hl=en</a>
               </p>
               <br/>
-              <p>For more information on how Google uses the collected information, please visit the "How Google uses
-                data when you use our partners' sites or app" page: <a className="text-main-blue"
+              <p>For more information on how Google uses the collected information, please visit the &quot;How Google uses
+                data when you use our partners&apos; sites or app&quot; page: <a className="text-main-blue"
                                                                        href="https://policies.google.com/technologies/partner-sites">https://policies.google.com/technologies/partner-sites</a>
                 or visit the Privacy Policy of Google: <a className="text-main-blue"
                                                           href="https://policies.google.com/privacy">https://policies.google.com/privacy</a>
@@ -126,7 +126,7 @@ export default function HomePage() {
               <br/>
               <p>Twitter remarketing service is provided by Twitter Inc.</p>
               <br/>
-              <p>You can opt-out from Twitter's interest-based ads by following their instructions: <a
+              <p>You can opt-out from Twitter&apos;s interest-based ads by following their instructions: <a
                 className="text-main-blue"
                 href="https://support.twitter.com/articles/20170405">https://support.twitter.com/articles/20170405</a>
               </p>
@@ -146,7 +146,7 @@ export default function HomePage() {
                 href="https://www.facebook.com/help/164968693837950">https://www.facebook.com/help/164968693837950</a>
               </p>
               <br/>
-              <p>To opt-out from Facebook's interest-based ads, follow these instructions from Facebook: <a
+              <p>To opt-out from Facebook&apos;s interest-based ads, follow these instructions from Facebook: <a
                 className="text-main-blue"
                 href="https://www.facebook.com/help/568137493302217">https://www.facebook.com/help/568137493302217</a>
               </p>
@@ -161,7 +161,7 @@ export default function HomePage() {
                                                                                    href="http://www.youronlinechoices.eu/">http://www.youronlinechoices.eu/</a>,
                 or opt-out using your mobile device settings.</p>
               <br/>
-              <p>For more information on the privacy practices of Facebook, please visit Facebook's Data Policy: <a
+              <p>For more information on the privacy practices of Facebook, please visit Facebook&apos;s Data Policy: <a
                 className="text-main-blue"
                 href="https://www.facebook.com/privacy/explanation">https://www.facebook.com/privacy/explanation</a></p>
               <br/>
@@ -209,7 +209,7 @@ export default function HomePage() {
               <h3 className="font-semibold">Cookies</h3>
               <br/>
               <p>Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers.
-                These are sent to your browser from the websites that you visit and are stored on your device's internal
+                These are sent to your browser from the websites that you visit and are stored on your device&apos;s internal
                 memory.</p>
               <br/>
               <p>This Service does not use these “cookies” explicitly. However, the app may use third party code and
